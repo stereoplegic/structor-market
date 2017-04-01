@@ -1,58 +1,62 @@
 [
   {
     "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
+    "gitHubOwner": "ipselon",
+    "description": "Structor Package for testing purposes only.",
+    "screenshotUrl": "",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+      }
+    ]
   },
   {
     "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
+    "gitHubOwner": "ipselon",
+    "description": "Structor Package for testing purposes only.",
+    "screenshotUrl": "",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+      }
+    ]
   },
   {
     "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
+    "gitHubOwner": "ipselon",
+    "description": "Structor Package for testing purposes only.",
+    "screenshotUrl": "",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+      }
+    ]
   },
   {
     "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
+    "gitHubOwner": "ipselon",
+    "description": "Structor Package for testing purposes only.",
+    "screenshotUrl": "",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+      }
+    ]
   },
   {
     "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
-  },
-  {
-    "gitHubRepo": "test-namespaces",
-    "gitHubOwner": "ipselon"
+    "gitHubOwner": "ipselon",
+    "description": "Structor Package for testing purposes only.",
+    "screenshotUrl": "",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+      }
+    ]
   }
 ]
