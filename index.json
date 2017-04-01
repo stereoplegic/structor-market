@@ -7,7 +7,7 @@
     "releases": [
       {
         "name": "master",
-        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tag.gz"
+        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tar.gz"
       }
     ]
   },
