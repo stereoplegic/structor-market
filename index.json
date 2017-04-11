@@ -9,6 +9,7 @@
         "name": "master",
         "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tar.gz"
       }
-    ]
+    ],
+    "structorVersion": "2.2.0"
   }
 ]
