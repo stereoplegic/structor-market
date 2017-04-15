@@ -1,15 +1,15 @@
 [
   {
-    "gitHubRepo": "test-namespaces",
+    "gitHubRepo": "material-ui-spkg",
     "gitHubOwner": "ipselon",
-    "description": "Structor Components Package for testing purposes only.",
-    "screenshotUrl": "https://github.com/ipselon/structor/raw/master/docs/img/scaffolding-component-2.png",
+    "description": "Material UI components for Structor",
+    "screenshotUrl": "https://raw.githubusercontent.com/ipselon/material-ui-spkg/master/screenshot.png",
     "releases": [
       {
         "name": "master",
-        "tarballUrl": "https://github.com/ipselon/test-namespaces/archive/master.tar.gz"
+        "tarballUrl": "https://github.com/ipselon/material-ui-spkg/archive/master.tar.gz"
       }
     ],
-    "structorVersion": "2.2.0"
+    "structorVersion": "2.2.3"
   }
 ]
