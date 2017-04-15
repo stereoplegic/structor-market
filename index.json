@@ -2,7 +2,7 @@
   {
     "gitHubRepo": "material-ui-spkg",
     "gitHubOwner": "ipselon",
-    "description": "Material UI components for Structor",
+    "description": "Material UI components for Structor. Still is in active development.",
     "screenshotUrl": "https://raw.githubusercontent.com/ipselon/material-ui-spkg/master/screenshot.png",
     "releases": [
       {
