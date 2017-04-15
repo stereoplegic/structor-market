@@ -2,7 +2,7 @@
   {
     "gitHubRepo": "material-ui-spkg",
     "gitHubOwner": "ipselon",
-    "description": "Material UI components for Structor. Please read Readme before installation. https://github.com/ipselon/material-ui-spkg",
+    "description": "Material UI components for Structor. Please read Readme before installation.",
     "screenshotUrl": "https://raw.githubusercontent.com/ipselon/material-ui-spkg/master/screenshot.png",
     "releases": [
       {
