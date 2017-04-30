@@ -1,9 +1,8 @@
 # Structor Market
 
-A list of React component packages for [Structor](https://github.com/ipselon/structor).
+### React components packages for [Structor - React UI Builder](https://github.com/ipselon/structor)
 
-## [Material UI components](https://github.com/ipselon/material-ui-spkg)
-
-<p align="left">
-  <img width="70%" src="https://raw.githubusercontent.com/ipselon/material-ui-spkg/master/screenshot.png" />
-</p>
+* [Material UI components](https://github.com/ipselon/material-ui-spkg)
+<a href="http://www.material-ui.com/#/" target="_blank">
+<img width="30%" src="https://raw.githubusercontent.com/ipselon/material-ui-spkg/master/screenshot.png" />
+</a>
