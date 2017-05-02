@@ -11,5 +11,18 @@
       }
     ],
     "structorVersion": "2.2.4"
+  },
+  {
+    "gitHubRepo": "mui-next-spkg",
+    "gitHubOwner": "ipselon",
+    "description": "Next version of Material UI components for Structor.",
+    "screenshotUrl": "https://raw.githubusercontent.com/ipselon/mui-next-spkg/master/screenshot.png",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/ipselon/mui-next-spkg/archive/master.tar.gz"
+      }
+    ],
+    "structorVersion": "2.2.5"
   }
 ]
