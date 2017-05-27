@@ -24,5 +24,18 @@
       }
     ],
     "structorVersion": "2.2.5"
+  },
+  {
+    "gitHubRepo": "rebass-spkg",
+    "gitHubOwner": "strobox",
+    "description": "57 Configurable React Stateless Functional UI Components",
+    "screenshotUrl": "http://jxnblk.com/assets/Screenshot-2017-03-25-18.36.02.png",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/strobox/rebass-spkg/archive/0.1.tar.gz"
+      }
+    ],
+    "structorVersion": "2.3.0"
   }
 ]
