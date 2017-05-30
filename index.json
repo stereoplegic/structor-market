@@ -37,5 +37,18 @@
       }
     ],
     "structorVersion": "2.3.0"
+  },
+  {
+    "gitHubRepo": "react-native-web-spkg",
+    "gitHubOwner": "msand",
+    "description": "React Native for Web base components",
+    "screenshotUrl": "https://raw.githubusercontent.com/msand/react-native-web-spkg/master/storybook.png",
+    "releases": [
+      {
+        "name": "master",
+        "tarballUrl": "https://github.com/msand/react-native-web-spkg/archive/1.0.0-rc1.tar.gz"
+      }
+    ],
+    "structorVersion": "2.3.0"
   }
 ]
